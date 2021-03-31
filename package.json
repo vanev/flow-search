@@ -1,0 +1,9 @@
+{
+  "name": "flow-search",
+  "version": "0.0.1",
+  "description": "Search your codebase by flow types.",
+  "main": "index.js",
+  "repository": "https://github.com/vanev/flow-search",
+  "author": "Evan Siegel <siegel.evan@gmail.com>",
+  "license": "MIT"
+}
